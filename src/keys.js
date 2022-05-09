@@ -38,8 +38,8 @@ key[0] = [{
   rus: {
     caps: '2',
     shiftOff: '2',
-    shiftOn: '\"',
-    shiftAndCaps: '\"',
+    shiftOn: '"\"',
+    shiftAndCaps: '"\"',
   },
 }, {
   code: 'Digit3',
@@ -334,8 +334,8 @@ key[2] = [{
 }, {
   code: 'Quote',
   eng: {
-    caps: "\'",
-    shiftOff: "\'",
+    caps: "'\'",
+    shiftOff: "'\'",
     shiftOn: '"',
     shiftAndCaps: '"',
   },

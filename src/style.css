@@ -182,4 +182,9 @@ body {
   width: 330px;
   border-radius: 21px;
 }
+
+.animated {
+  -webkit-transform: translateY(5px);
+          transform: translateY(5px);
+}
 /*# sourceMappingURL=style.css.map */
